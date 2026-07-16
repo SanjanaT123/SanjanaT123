@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sanjana 👋
 
-<!--
-**SanjanaT123/SanjanaT123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech in Electronics & Communication Engineering
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- Spring Boot
+- SQL
+- Machine Learning
+- Deep Learning
+- Flask
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- IoT Device Health Monitoring Dashboard
+- Agricultural Soil Fertility Prediction & Fertilizer Recommendation
+- Machine Learning-Based Handover Optimization in 5G Networks
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/sanjana-tupped-8a9119381
+- GitHub: https://github.com/SanjanaT123
